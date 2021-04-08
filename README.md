@@ -4,4 +4,4 @@
 
 - 튜토리얼 따라하기 
 - 참고자료 [링크](https://tutorials.pytorch.kr/beginner/blitz/neural_networks_tutorial.html#sphx-glr-beginner-blitz-neural-networks-tutorial-py)
-
+- 스터디 jupyter book 테스트
